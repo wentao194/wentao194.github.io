@@ -95,7 +95,7 @@ ul li{
 }
 
 .line {
-	font-family: "Yu Gothic","Segoe UI Light","Helvetica Neue","Courier New","Courier",sans-serif;
+	font-family: "arial","Yu Gothic","Segoe UI Light","Helvetica Neue","Courier New","Courier",sans-serif;
 	position:relative;
 	right:175px;
 	font-size: 20px;
@@ -110,7 +110,7 @@ ul li{
 .story {
 	position:relative;
 	top:50px;
-	font-family:arial;
+	font-family: "arial","Yu Gothic","Segoe UI Light","Helvetica Neue","Courier New","Courier",sans-serif;
 	font-size: 25px;
 	margin-left: 150px;
 	width: 50%;
@@ -148,7 +148,7 @@ ul li{
 .project-list {
 	position:relative;
 	top:50px;
-	font-family:arial;
+	font-family: "arial","Yu Gothic","Segoe UI Light","Helvetica Neue","Courier New","Courier",sans-serif;
 	font-size: 25px;
 	margin-left: 150px;
 	width: 50%;
