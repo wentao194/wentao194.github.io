@@ -155,3 +155,7 @@ ul li{
 	height: 50%;
 	line-height: 150%;
 }
+
+.projects, .aboutme {
+	font-family: "arial","Yu Gothic","Segoe UI Light","Helvetica Neue","Courier New","Courier",sans-serif;
+}
